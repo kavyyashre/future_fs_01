@@ -9,9 +9,9 @@ const projects = [
         github: "#",
     },
     {
-        title: "Library Management (Java)",
+        title: "Cloud computing architecture for human resource management system(java)",
         description:
-            "Console application using OOP concepts and ArrayList to manage books.",
+            "“It uses cloud infrastructure to securely manage and access HR data anytime and from anywhere.",
         live: "",
         github: "#",
     },
