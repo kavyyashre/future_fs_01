@@ -78,8 +78,8 @@ const Contact = () => {
                 <div className="contact-info">
                     <p>
                         <strong>Email:</strong>{" "}
-                        <a href="mailto:yarraguntlakavya29@gmail.com">
-                            yarraguntlakavya29@gmail.com
+                        <a href="mailto:yarraguntlakavyyashre@gmail.com">
+                            yarraguntlakavyyashre@gmail.com
                         </a>
                     </p>
                     <p>
@@ -95,7 +95,7 @@ const Contact = () => {
                     <p>
                         <strong>LinkedIn:</strong>{" "}
                         <a
-                            href="https://www.linkedin.com/in/kavya-yarraguntla-50a588305/"
+                            href="https://www.linkedin.com/in/yarraguntla-kavyyashre-50a588305"
                             target="_blank"
                             rel="noreferrer"
                         >
