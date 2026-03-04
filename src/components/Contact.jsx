@@ -99,7 +99,7 @@ const Contact = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            Kavya Yarraguntla
+                            Yarraguntla Kavyyashre
                         </a>
                     </p>
                     <p>
